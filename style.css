@@ -12,7 +12,11 @@ width:  100%;
   padding: 30px
 }
 
-  titulo-centralizado {
+.titulo-principal{
+padding-left: 20px;
+}
+
+.titulo-centralizado {
  text-align: center
  }
 
